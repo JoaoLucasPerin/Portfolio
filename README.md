@@ -1,6 +1,6 @@
 # Welcome to my porfolio for data science!
 
-![alt text](https://github.com/JoaoLucasPerin/Portfolio/readme_banner.webp?raw=true)
+![](https://github.com/JoaoLucasPerin/Portfolio/readme_banner.webp)
 
 Source: [btelligent](https://www.btelligent.com/en/portfolio/data-science/) Acessed on january 2, 2025.
 # About
