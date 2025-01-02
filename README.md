@@ -1,6 +1,6 @@
 # Welcome to my porfolio for data science!
 
-![](readme_banner.webp)
+![](readme_banner.webp = 240x244)
 
 Source: [btelligent](https://www.btelligent.com/en/portfolio/data-science/) Acessed on january 2, 2025.
 # About
