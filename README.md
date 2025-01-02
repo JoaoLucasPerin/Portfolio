@@ -1,6 +1,6 @@
 # Welcome to my porfolio for data science!
 
-[<img src="https://img.shields.io/badge/Author-JoaoLucas-f39f37">](https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/)
+[<img src="https://img.shields.io/badge/Author-JoaoLucas-f39f37">](https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/){:target="_blank" rel="noopener"}
 
 <p align="center">
 <img src="readme_banner.webp" width="240">
