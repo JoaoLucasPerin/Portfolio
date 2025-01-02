@@ -8,4 +8,4 @@ Furthermore, I tell a little about my story and talk about some of my skills dev
 
 # Contact
 
-&#8594 <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/">LinkedIn</a>
+&#8594; <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/">LinkedIn</a>
