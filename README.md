@@ -8,5 +8,5 @@ Furthermore, I tell a little about my story and talk about some of my skills dev
 
 # Contact
 Please, feel free to contact me via:
-&#8594; <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/">LinkedIn</a>
-&#8594; <a href="https://wa.me/+5551985765763/?text=urlencodedtex">WhatsApp</a>
+&#8594; <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/">LinkedIn</a> <br>
+&#8594; <a href="https://wa.me/+5551985765763/?text=WhatsApp de João Lucas">WhatsApp</a>
