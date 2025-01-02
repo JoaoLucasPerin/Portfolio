@@ -3,8 +3,7 @@
 [<img src="https://img.shields.io/badge/Author-JoaoLucas-f39f37">](https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/)
 
 <p align="center">
-<img src="readme_banner.webp" width="240">
-Source: [btelligent](https://www.btelligent.com/en/portfolio/data-science/) Acessed on january 2, 2025.
+[<img src="readme_banner.webp" width="240">](https://www.btelligent.com/en/portfolio/data-science/)
 </p>
 
 # About
