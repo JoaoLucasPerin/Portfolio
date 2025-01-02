@@ -5,6 +5,8 @@
 <p align="center">
 <img src="readme_banner.webp" width="240">
 <br>
+</p>
+<p>
 Source: [btelligent](https://www.btelligent.com/en/portfolio/data-science/) Acessed on january 2, 2025.
 </p>
 
