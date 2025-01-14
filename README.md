@@ -19,7 +19,7 @@ Please, feel free to contact me via: <br>
 &#8594; <a href="https://www.mdpi.com/1660-4601/15/6/1149">You can access the full article here; </a> <br> 
 &#8594; In this paper, I talked about vaccination in children. There, you can see some exploratory analysis, associations between vaccines and adverse events using adjusted residuals, odds ratios of hospitalization after each kind of vaccine using logistic regression. <br> 
 
-[<img src="aepi_article_title_and_authors.png" width="100%" height="460px">](https://www.mdpi.com/1660-4601/15/6/1149)
+[<img src="aepi_article_title_and_authors.png" width="90%" height="460px">](https://www.mdpi.com/1660-4601/15/6/1149)
 
 
 
