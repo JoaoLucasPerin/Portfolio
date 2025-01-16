@@ -21,6 +21,14 @@ Please, feel free to contact me via: <br>
 
 [<img src="aepi_article_title_and_authors.png" width="90%" >](https://www.mdpi.com/1660-4601/15/6/1149)
 
+<a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56"> Projeto CRISP-DM utilizando o conjunto de dados Iris </a>
+
+&#8594; Article published on Medium; <br>
+&#8594; <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56">You can access the full article here; </a> <br> 
+&#8594; In this article, I have proposed a project using CRISP-DM methodology to build 9 different statistical models and choose one of them as the winner, using k-fold crossvalidation. Then, you can put new data and predict a categoric class based on them. <br> 
+
+[<img src="crisp_in_iris.png" width="90%" >](https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56)
+
 
 
 
