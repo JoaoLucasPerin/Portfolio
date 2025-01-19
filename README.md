@@ -13,6 +13,8 @@ Please, feel free to contact me via: <br>
 &#8594; <a href="mailto:joao_perin32@hotmail.com">Email me </a> <br>
 
 # Articles
+
+# Classification and association
 <a href="https://www.mdpi.com/1660-4601/15/6/1149"> Adverse Events Following Immunization in Brazil: Age of Child and Vaccine-Associated Risk Analysis Using Logistic Regression </a>
 
 &#8594; Article published on International Journal of Environmental Research and Public Health; <br>
@@ -21,6 +23,7 @@ Please, feel free to contact me via: <br>
 
 [<img src="aepi_article_title_and_authors.png" width="40%" >](https://www.mdpi.com/1660-4601/15/6/1149)
 ------------------------------------------------------------------------------------------------------------------------------
+# Classification selecting model winner of 9 model types
 <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56"> Projeto CRISP-DM utilizando o conjunto de dados Iris </a>
 
 &#8594; Article published on Medium; <br>
