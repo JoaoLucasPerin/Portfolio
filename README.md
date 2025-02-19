@@ -36,8 +36,6 @@ Please, feel free to contact me via: <br>
   * <a href="https://pytorch.org/">PyTorch</a> (for neural network classifier), <br>
   * <a href="https://xgboost.readthedocs.io/en/stable/python/">XBGoost</a> (for xgboost classifier). <br>
 
-[<img src="crisp_in_iris.png" width="40%" >](https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56)
-
 ------------------------------------------------------------------------------------------------------------------------------
 
 
