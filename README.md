@@ -25,7 +25,7 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # Classification - selecting model winner from 11 model types with k-fold
-<a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56"> Projeto CRISP-DM utilizando o conjunto de dados Iris </a>
+<a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56"> Automatização da Escolha de Modelos de Classificação para Identificação de Espécies de Plantas Usando Machine Learning e CRISP-DM </a>
 
 * Article published on Medium; <br>
 * <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56">Documentation; </a> <br> 
