@@ -22,7 +22,7 @@ Please, feel free to contact me via: <br>
 &#8594; In this paper, I talked about vaccination in children. There, you can see some exploratory analysis, associations between vaccines and adverse events using adjusted residuals, odds ratios of hospitalization after each kind of vaccine using logistic regression. <br> 
 
 [<img src="aepi_article_title_and_authors.png" width="40%" >](https://www.mdpi.com/1660-4601/15/6/1149)
-------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------ 
 # Classification - selecting model winner from 9 model types with k-fold
 <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56"> Projeto CRISP-DM utilizando o conjunto de dados Iris </a>
 
