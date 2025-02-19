@@ -24,7 +24,7 @@ Please, feel free to contact me via: <br>
 [<img src="aepi_article_title_and_authors.png" width="40%" >](https://www.mdpi.com/1660-4601/15/6/1149)
 
 ------------------------------------------------------------------------------------------------------------------------------
-# Classification - selecting model winner from 11 model types with k-fold
+# Classification - selection of the winning model among 11 types of models with k-fold
 <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56"> Automatização da Escolha de Modelos de Classificação para Identificação de Espécies de Plantas Usando Machine Learning e CRISP-DM </a>
 
 * Article published on Medium; <br>
