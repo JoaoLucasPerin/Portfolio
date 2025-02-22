@@ -16,7 +16,6 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # ARTICLES
-------------------------------------------------------------------------------------------------------------------------------
 # Classification and association
 <a href="https://www.mdpi.com/1660-4601/15/6/1149"> Adverse Events Following Immunization in Brazil: Age of Child and Vaccine-Associated Risk Analysis Using Logistic Regression </a>
 
