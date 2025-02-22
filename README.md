@@ -36,6 +36,12 @@ Please, feel free to contact me via: <br>
   * <a href="https://pytorch.org/">PyTorch</a> (for neural network classifier), <br>
   * <a href="https://xgboost.readthedocs.io/en/stable/python/">XBGoost</a> (for xgboost classifier). <br>
 
+#  NLP application
+<a href="https://github.com/JoaoLucasPerin/NLP_for_spam_emails/blob/main/nlp.py"> Email Spam Classification Using Natural Language Processing (NLP) </a>
+
+* <a href="https://github.com/JoaoLucasPerin/Iris.git">GitHub; </a> <br>
+* A short but good example applied for spam detection in emails. Almost 99% of mean accuracy in kfold. <br>
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 
