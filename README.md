@@ -2,18 +2,21 @@
 
 [<img src="https://img.shields.io/badge/Author-JoaoLucas-f39f37">](https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/)
 
+------------------------------------------------------------------------------------------------------------------------------
 # ABOUT
 This repository is reponsible for storing Joao's portfolio. Here, you can see different project examples, with simple explanation, using softwares as R and Python for data science. 
 Furthermore, I tell a little about my story and talk about some of my skills developed over time.
 
+------------------------------------------------------------------------------------------------------------------------------
 # CONTACT
 Please, feel free to contact me via: <br>
 * <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-42407b35/">LinkedIn</a> <br>
 * <a href="https://wa.me/+5551985765763/">WhatsApp</a> <br>
 * <a href="mailto:joao_perin32@hotmail.com">Email me </a> <br>
 
+------------------------------------------------------------------------------------------------------------------------------
 # ARTICLES
-
+------------------------------------------------------------------------------------------------------------------------------
 # Classification and association
 <a href="https://www.mdpi.com/1660-4601/15/6/1149"> Adverse Events Following Immunization in Brazil: Age of Child and Vaccine-Associated Risk Analysis Using Logistic Regression </a>
 
