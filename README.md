@@ -47,5 +47,12 @@ Please, feel free to contact me via: <br>
 * A good and short example applied for spam detection in emails. Almost 99% of mean accuracy using kfold. <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
+# LLM tools
+<a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py"> LLM to simple chat with Ollama (a free platform as chatGPT) </a>
+* <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py">GitHub; </a> <br>
+* In this script, I made a simple LLM to chat with Ollama, a free chatbot as chatGPT. <br>
+<br>
+<a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py"> LLM with a poem generator </a>
+* Here, I have used Streamlit, LangChain and Llama2 to generate poems based on the context passed by the user via browser <br>
 
-
+------------------------------------------------------------------------------------------------------------------------------
