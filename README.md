@@ -57,6 +57,6 @@ Please, feel free to contact me via: <br>
 
 * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py">GitHub; </a> <br>
 * Here, I have used Streamlit, LangChain and Llama2 to generate poems based on the context passed by the user via browser. <br> <br>
-* All the instructions of how to install everything and how to use them are there.<br>
+* All the instructions of how to install and use everything are inside each script.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
