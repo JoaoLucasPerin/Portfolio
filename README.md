@@ -43,7 +43,7 @@ Please, feel free to contact me via: <br>
 #  NLP application
 <a href="https://github.com/JoaoLucasPerin/NLP_for_spam_emails/blob/main/nlp.py"> Email Spam Classification Using Natural Language Processing (NLP) </a>
 
-* <a href="https://github.com/JoaoLucasPerin/Iris.git">GitHub; </a> <br>
+* <a href="https://github.com/JoaoLucasPerin/NLP_for_spam_emails/blob/main/nlp.py">GitHub; </a> <br>
 * A good and short example applied for spam detection in emails. Almost 99% of mean accuracy using kfold. <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
