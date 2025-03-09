@@ -44,7 +44,7 @@ Please, feel free to contact me via: <br>
 <a href="https://github.com/JoaoLucasPerin/NLP_for_spam_emails/blob/main/nlp.py"> Email Spam Classification Using Natural Language Processing (NLP) </a>
 
 * <a href="https://github.com/JoaoLucasPerin/NLP_for_spam_emails/blob/main/nlp.py">GitHub; </a> <br>
-* <a href="https://www.oracle.com/pt/artificial-intelligence/what-is-natural-language-processing/#:~:text=Natural%20language%20processing%20(NLP)%20is,generate%2C%20and%20manipulate%20human%20language"> Natural language processing (NLP)</a> is a branch of artificial intelligence (AI) that enables computers to comprehend, generate, and manipulate human language; <br>
+* Natural language processing <a href="https://www.oracle.com/pt/artificial-intelligence/what-is-natural-language-processing/#:~:text=Natural%20language%20processing%20(NLP)%20is,generate%2C%20and%20manipulate%20human%20language">(NLP)</a> is a branch of artificial intelligence (AI) that enables computers to comprehend, generate, and manipulate human language; <br>
 * A good and short example applied for spam detection in emails. Almost 99% of mean accuracy using kfold. <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
