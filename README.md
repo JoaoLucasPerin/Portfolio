@@ -49,7 +49,7 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # LLM tools
-<a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models"> LLM or NLP? </a> <br> While NLP models are often used to interpret or transform existing text, LLMs are better at generating new, coherent text from scratch.
+<a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models"> LLM or NLP? </a> <br> While NLP models are often used to interpret or transform existing text, LLMs are better at generating new, coherent text from scratch.<br>
 <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py"> LLM to simple chat with Ollama (a free platform as chatGPT) </a>
 
 * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py">GitHub; </a> <br>
