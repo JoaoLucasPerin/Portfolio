@@ -64,3 +64,12 @@ Please, feel free to contact me via: <br>
 * All the instructions of how to install and use everything are inside each script.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
+# Tableau
+
+* <a href="https://public.tableau.com/app/profile/jo.o.lucas.da.rosa.perin/vizzes"> Check out my projects on Tableau Public </a>
+
+------------------------------------------------------------------------------------------------------------------------------
+# Certifications
+
+* <a href="[https://www.credly.com/your-certification-link](https://www.credly.com/badges/a4f013c1-9fda-4647-b0a9-a36d8db71f75)" target="_blank"> Tableau Certified Data Analyst – View Credential</a>
+
