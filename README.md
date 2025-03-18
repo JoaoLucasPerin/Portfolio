@@ -71,5 +71,5 @@ Please, feel free to contact me via: <br>
 ------------------------------------------------------------------------------------------------------------------------------
 # Certifications
 
-* <a href="[https://www.credly.com/your-certification-link](https://www.credly.com/badges/a4f013c1-9fda-4647-b0a9-a36d8db71f75)" target="_blank"> Tableau Certified Data Analyst – View Credential</a>
+* <a href="https://www.credly.com/badges/a4f013c1-9fda-4647-b0a9-a36d8db71f75" target="_blank"> Tableau Certified Data Analyst – View Credential</a>
 
