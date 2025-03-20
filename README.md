@@ -10,9 +10,10 @@ Furthermore, I tell a little about my story and talk about some of my skills dev
 ------------------------------------------------------------------------------------------------------------------------------
 # CONTACT
 Please, feel free to contact me via: <br>
-* <a href="https://www.linkedin.com/in/jlrpt/">LinkedIn</a> <br>
-* <a href="https://wa.me/+5551985765763/">WhatsApp</a> <br>
-* <a href="mailto:joao_perin32@hotmail.com">Email me </a> <br>
+* <a href="https://www.linkedin.com/in/jlrpt/">LinkedIn</a>; <br>
+* <a href="https://wa.me/+5551985765763/">WhatsApp 1</a>; <br>
+* <a href="https://wa.me/+351928206221/">WhatsApp 2</a>; <br>
+* <a href="mailto:joao_perin32@hotmail.com">Email</a>.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # ARTICLES
