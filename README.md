@@ -69,6 +69,6 @@ Please, feel free to contact me via: <br>
 ------------------------------------------------------------------------------------------------------------------------------
 # Certifications
 
-* Tableau Certified Data Analyst – <a href="https://www.credly.com/badges/a4f013c1-9fda-4647-b0a9-a36d8db71f75" target="_blank">View Credential</a>
+* Tableau Certified Data Analyst – <a href="https://www.credly.com/badges/a4f013c1-9fda-4647-b0a9-a36d8db71f75" target="_blank">View Credential</a>.
 
-* Microsoft Certified: Power BI Data Analyst Associate – <a href="https://drive.google.com/file/d/17MeY7APfTV3lwPiS_j13UL-64eiwuDyr/" target="_blank">View Credential </a>
+* Microsoft Certified: Power BI Data Analyst Associate – <a href="https://drive.google.com/file/d/17MeY7APfTV3lwPiS_j13UL-64eiwuDyr/" target="_blank">View Credential</a>.
