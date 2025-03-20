@@ -32,8 +32,8 @@ Please, feel free to contact me via: <br>
   * <a href="https://github.com/JoaoLucasPerin/Iris.git">GitHub project; </a> <br>
   * In this article, I have proposed a project using CRISP-DM methodology to build 11 different statistical models and choose one of them as the winner, using k-fold crossvalidation. Then, you can put new data and predict a categoric class based on them. <br>
   * Modeling packages used: <br>
-    * <a href="https://scikit-learn.org/"> Scikit-learn </a> (for AdaBoost, Linear Discriminant Analysis, Decision Tree Classifier, Gradient Boosting, KNN, Naive Bayes, Random Forest, Logistic Regression and SVM classifiers + cross-validation model selection), <br>
-    * <a href="https://pytorch.org/">PyTorch</a> (for neural network classifier), <br>
+    * <a href="https://scikit-learn.org/"> Scikit-learn </a> (for AdaBoost, Linear Discriminant Analysis, Decision Tree Classifier, Gradient Boosting, KNN, Naive Bayes, Random Forest, Logistic Regression and SVM classifiers + cross-validation model selection); <br>
+    * <a href="https://pytorch.org/">PyTorch</a> (for neural network classifier); <br>
     * <a href="https://xgboost.readthedocs.io/en/stable/python/">XBGoost</a> (for xgboost classifier). <br>
 
 
@@ -47,7 +47,7 @@ Please, feel free to contact me via: <br>
 ------------------------------------------------------------------------------------------------------------------------------
 # LLM tools
 * ### Briefly explaination of the differences between LLM and NLP.<br>
-  * <a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models">Take a look here.</a> 
+  * <a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models">Take a look here;</a> 
   * In summary: while NLP models are often used to interpret or transform existing text, LLMs are better at generating new, coherent text from scratch. <br>
 
 * ### Applied LLM to simple chat with Ollama (a free platform as chatGPT) </a>
