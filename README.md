@@ -67,7 +67,7 @@ Please, feel free to contact me via: <br>
 # Tableau
 
 * I gave introdutory Tableau classes. <a href="https://github.com/JoaoLucasPerin/Portfolio/blob/main/Tableau_trial/Tutorial%20-%20Tableau.pdf">Check out my Tableau trial for beginners</a>. I created a PDF explaining in detail how to build a dashboard, from start to finish, containing a map, time graph, history mode and much more, in a very detailed way.
-* <a href="https://public.tableau.com/app/profile/jo.o.lucas.da.rosa.perin/vizzes"> Check out my projects on Tableau Public </a>
+* <a href="https://public.tableau.com/app/profile/jo.o.lucas.da.rosa.perin/vizzes"> Check out some of my projects on Tableau Public </a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # Certifications
