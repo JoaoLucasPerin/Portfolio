@@ -46,7 +46,8 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # LLM tools
-* ### Briefly explaination of the differences between LLM and NLP. <a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models">Take a look here.</a> <br>
+* ### Briefly explaination of the differences between LLM and NLP.<br>
+  * <a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models">Take a look here.</a> 
   * In summary: while NLP models are often used to interpret or transform existing text, LLMs are better at generating new, coherent text from scratch. <br>
 
 * ### Applied LLM to simple chat with Ollama (a free platform as chatGPT) </a>
