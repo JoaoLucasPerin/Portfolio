@@ -14,7 +14,7 @@ Please, feel free to contact me via: <br>
 * <a href="https://wa.me/+5551985765763/">WhatsApp 1 &#9990;</a>; <br>
 * <a href="https://wa.me/+351928206221/">WhatsApp 2 &#9990;</a>; <br>
 * Phone: +351 928 206 221 &#9743;;<br>
-* <a href="mailto:joao_perin32@hotmail.com">Email</a>.<br>
+* <a href="mailto:joao_perin32@hotmail.com">Email ✉</a>.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # ARTICLES
