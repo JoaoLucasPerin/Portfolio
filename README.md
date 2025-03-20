@@ -16,7 +16,7 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # ARTICLES
-## Logistic regression applied in adverse events post-vaccination
+### Logistic regression applied in adverse events post-vaccination
 * Adverse Events Following Immunization in Brazil: Age of Child and Vaccine-Associated Risk Analysis Using Logistic Regression
   * Article published on International Journal of Environmental Research and Public Health; <br>
   * <a href="https://www.mdpi.com/1660-4601/15/6/1149">You can access the full article here; </a> <br> 
