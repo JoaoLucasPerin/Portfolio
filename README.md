@@ -52,14 +52,13 @@ Please, feel free to contact me via: <br>
 * <a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models"> LLM or NLP? </a> <br>
   * While NLP models are often used to interpret or transform existing text, LLMs are better at generating new, coherent text from scratch. <br>
 
-<a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py"> LLM to simple chat with Ollama (a free platform as chatGPT) </a>
-
-* <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py">GitHub; </a> <br>
-* In this script, I made a simple LLM to chat with Ollama, a free chatbot as chatGPT. <br>
+* <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py"> LLM to simple chat with Ollama (a free platform as chatGPT) </a>
+  * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py">GitHub; </a> <br>
+  * In this script, I made a simple LLM to chat with Ollama, a free chatbot as chatGPT. <br>
+  
 <br>
-<a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py"> LLM with a poem generator </a>
-
-* <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py">GitHub; </a> <br>
+* <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py"> LLM with a poem generator </a>
+  * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py">GitHub; </a> <br>
 * Here, I have used Streamlit, LangChain and Llama2 to generate poems based on the context passed by the user via browser. <br> <br>
 * All the instructions of how to install and use everything are inside each script.<br>
 
