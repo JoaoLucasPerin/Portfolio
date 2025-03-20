@@ -17,11 +17,10 @@ Please, feel free to contact me via: <br>
 ------------------------------------------------------------------------------------------------------------------------------
 # ARTICLES
 # Logistic regression applied in adverse events post-vaccination
-<a href="https://www.mdpi.com/1660-4601/15/6/1149"> Adverse Events Following Immunization in Brazil: Age of Child and Vaccine-Associated Risk Analysis Using Logistic Regression </a>
-
-* Article published on International Journal of Environmental Research and Public Health; <br>
-* <a href="https://www.mdpi.com/1660-4601/15/6/1149">You can access the full article here; </a> <br> 
-* In this paper, I talked about vaccination in children. There, you can see some exploratory analysis, associations between vaccines and adverse events using adjusted residuals, odds ratios of hospitalization after each kind of vaccine using logistic regression. <br> 
+* <a href="https://www.mdpi.com/1660-4601/15/6/1149"> Adverse Events Following Immunization in Brazil: Age of Child and Vaccine-Associated Risk Analysis Using Logistic Regression </a>
+  * Article published on International Journal of Environmental Research and Public Health; <br>
+  * <a href="https://www.mdpi.com/1660-4601/15/6/1149">You can access the full article here; </a> <br> 
+  * In this paper, I talked about vaccination in children. There, you can see some exploratory analysis, associations between vaccines and adverse events using adjusted residuals, odds ratios of hospitalization after each kind of vaccine using logistic regression. <br> 
 
 [<img src="aepi_article_title_and_authors.png" width="40%" >](https://www.mdpi.com/1660-4601/15/6/1149)
 
@@ -59,7 +58,8 @@ Please, feel free to contact me via: <br>
 <br>
 * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py"> LLM with a poem generator </a>
   * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py">GitHub; </a> <br>
-* Here, I have used Streamlit, LangChain and Llama2 to generate poems based on the context passed by the user via browser. <br> <br>
+  * Here, I have used Streamlit, LangChain and Llama2 to generate poems based on the context passed by the user via browser. <br> <br>
+  
 * All the instructions of how to install and use everything are inside each script.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
