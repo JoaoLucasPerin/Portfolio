@@ -27,7 +27,7 @@ Please, feel free to contact me via: <br>
 ------------------------------------------------------------------------------------------------------------------------------
 # Automated classification model selection - selection of the winning model among 11 classifier types with k-fold
 
-* Automatização da Escolha de Modelos de Classificação para Identificação de Espécies de Plantas Usando Machine Learning e CRISP-DM
+* ### Automatização da Escolha de Modelos de Classificação para Identificação de Espécies de Plantas Usando Machine Learning e CRISP-DM
   * Article published on Medium. <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56">Check it out here</a>; <br>
   * <a href="https://github.com/JoaoLucasPerin/Iris.git">GitHub project; </a> <br>
   * In this article, I have proposed a project using CRISP-DM methodology to build 11 different statistical models and choose one of them as the winner, using k-fold crossvalidation. Then, you can put new data and predict a categoric class based on them. <br>
@@ -39,21 +39,21 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 #  NLP classifier
-* Email Spam Classification Using Natural Language Processing (NLP)
+* ### Email Spam Classification Using Natural Language Processing (NLP)
   * <a href="https://github.com/JoaoLucasPerin/NLP_for_spam_emails/blob/main/nlp.py">GitHub; </a> <br>
   * Natural language processing <a href="https://www.oracle.com/pt/artificial-intelligence/what-is-natural-language-processing/#:~:text=Natural%20language%20processing%20(NLP)%20is,generate%2C%20and%20manipulate%20human%20language">(NLP)</a> is a branch of artificial intelligence (AI) that enables computers to comprehend, generate, and manipulate human language; <br>
   * It's a good and short example applied for spam detection in emails. Almost 99% of mean accuracy using kfold. <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # LLM tools
-* Briefly explaination of the differences between LLM and NLP. <a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models">Take a look here.</a> <br>
+* ### Briefly explaination of the differences between LLM and NLP. <a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models">Take a look here.</a> <br>
   * In summary: while NLP models are often used to interpret or transform existing text, LLMs are better at generating new, coherent text from scratch. <br>
 
-* Applied LLM to simple chat with Ollama (a free platform as chatGPT) </a>
+* ### Applied LLM to simple chat with Ollama (a free platform as chatGPT) </a>
   * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py">GitHub; </a> <br>
   * In this script, I made a simple LLM to chat with Ollama, a free chatbot as chatGPT. <br>
 
-* Applied LLM with a poem generator </a>
+* ### Applied LLM with a poem generator </a>
   * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py">GitHub; </a> <br>
   * Here, I have used Streamlit, LangChain and Llama2 to generate poems based on the context passed by the user via browser. <br> <br>
   
