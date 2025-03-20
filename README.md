@@ -27,16 +27,16 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # Automated classification model selection - selection of the winning model among 11 classifier types with k-fold
-<a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56"> Automatização da Escolha de Modelos de Classificação para Identificação de Espécies de Plantas Usando Machine Learning e CRISP-DM </a>
 
-* Article published on Medium; <br>
-* <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56">Documentation; </a> <br> 
-* <a href="https://github.com/JoaoLucasPerin/Iris.git">GitHub; </a> <br>
-* In this article, I have proposed a project using CRISP-DM methodology to build 11 different statistical models and choose one of them as the winner, using k-fold crossvalidation. Then, you can put new data and predict a categoric class based on them. <br>
-* Modeling packages used: <br>
-  * <a href="https://scikit-learn.org/"> Scikit-learn </a> (for AdaBoost, Linear Discriminant Analysis, Decision Tree Classifier, Gradient Boosting, KNN, Naive Bayes, Random Forest, Logistic Regression and SVM classifiers + cross-validation model selection), <br>
-  * <a href="https://pytorch.org/">PyTorch</a> (for neural network classifier), <br>
-  * <a href="https://xgboost.readthedocs.io/en/stable/python/">XBGoost</a> (for xgboost classifier). <br>
+* <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56"> Automatização da Escolha de Modelos de Classificação para Identificação de Espécies de Plantas Usando Machine Learning e CRISP-DM </a>
+  * Article published on Medium; <br>
+  * <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56">Documentation; </a> <br> 
+  * <a href="https://github.com/JoaoLucasPerin/Iris.git">GitHub; </a> <br>
+  * In this article, I have proposed a project using CRISP-DM methodology to build 11 different statistical models and choose one of them as the winner, using k-fold crossvalidation. Then, you can put new data and predict a categoric class based on them. <br>
+  * Modeling packages used: <br>
+    * <a href="https://scikit-learn.org/"> Scikit-learn </a> (for AdaBoost, Linear Discriminant Analysis, Decision Tree Classifier, Gradient Boosting, KNN, Naive Bayes, Random Forest, Logistic Regression and SVM classifiers + cross-validation model selection), <br>
+    * <a href="https://pytorch.org/">PyTorch</a> (for neural network classifier), <br>
+    * <a href="https://xgboost.readthedocs.io/en/stable/python/">XBGoost</a> (for xgboost classifier). <br>
 
 
 ------------------------------------------------------------------------------------------------------------------------------
