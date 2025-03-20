@@ -53,7 +53,6 @@ Please, feel free to contact me via: <br>
 * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py"> LLM to simple chat with Ollama (a free platform as chatGPT) </a>
   * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/simple_llm_chat.py">GitHub; </a> <br>
   * In this script, I made a simple LLM to chat with Ollama, a free chatbot as chatGPT. <br>
-<br>
 
 * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py"> LLM with a poem generator </a>
   * <a href="https://github.com/JoaoLucasPerin/LLM_tools/blob/main/llm_poem_generator.py">GitHub; </a> <br>
