@@ -18,7 +18,7 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # ARTICLES
-### Logistic regression applied in adverse events post-vaccination
+### R: Logistic regression applied in adverse events post-vaccination
 * #### Adverse Events Following Immunization in Brazil: Age of Child and Vaccine-Associated Risk Analysis Using Logistic Regression
   * Article published on International Journal of Environmental Research and Public Health; <br>
   * <a href="https://www.mdpi.com/1660-4601/15/6/1149">You can access the full article here; </a> <br> 
@@ -27,7 +27,7 @@ Please, feel free to contact me via: <br>
 [<img src="aepi_article_title_and_authors.png" width="40%" >](https://www.mdpi.com/1660-4601/15/6/1149)
 
 ------------------------------------------------------------------------------------------------------------------------------
-### Automated classification model selection - selection of the winning model among 11 classifier types with k-fold
+### Python: Automated classification model selection - selection of the winning model among 11 classifier types with k-fold
 
 * #### Automatização da Escolha de Modelos de Classificação para Identificação de Espécies de Plantas Usando Machine Learning e CRISP-DM
   * Article published on Medium. <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56">Check it out here</a>; <br>
@@ -40,14 +40,14 @@ Please, feel free to contact me via: <br>
 
 
 ------------------------------------------------------------------------------------------------------------------------------
-#  NLP classifier
+#  Python: NLP classifier
 * ### Email Spam Classification Using Natural Language Processing (NLP)
   * <a href="https://github.com/JoaoLucasPerin/NLP_for_spam_emails/blob/main/nlp.py">GitHub; </a> <br>
   * Natural language processing <a href="https://www.oracle.com/pt/artificial-intelligence/what-is-natural-language-processing/#:~:text=Natural%20language%20processing%20(NLP)%20is,generate%2C%20and%20manipulate%20human%20language">(NLP)</a> is a branch of artificial intelligence (AI) that enables computers to comprehend, generate, and manipulate human language; <br>
   * It's a good and short example applied for spam detection in emails. Almost 99% of mean accuracy using kfold. <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-# LLM tools
+# Python: LLM tools
 * ### Briefly explaination of the differences between LLM and NLP.<br>
   * <a href="https://www.revelo.com/blog/nlp-vs-llm#:~:text=While%20NLP%20models%20are%20often,the%20best%20large%20language%20models">Take a look here;</a> 
   * In summary: while NLP models are often used to interpret or transform existing text, LLMs are better at generating new, coherent text from scratch. <br>
