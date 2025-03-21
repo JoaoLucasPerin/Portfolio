@@ -69,6 +69,12 @@ Please, feel free to contact me via: <br>
 * <a href="https://public.tableau.com/app/profile/jo.o.lucas.da.rosa.perin/vizzes"> Check out some of my projects on Tableau Public </a>
 
 ------------------------------------------------------------------------------------------------------------------------------
+# Databricks
+
+* I build a full script to extract Kaggle datasets to your own Databricks Community Edition (accessible for free) cluster. Take a look, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/571989761416862/905146386861623/latest.html">here</a>;
+* With this, I made a simple script, based on this, to convert that dataset to spark and pandas. Take a look, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279527012/905146386861623/latest.html">here</a>;
+* Than, I built a full machine learning example, to churn prediction. Take a look, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279526955/905146386861623/latest.html">here</a>.
+------------------------------------------------------------------------------------------------------------------------------
 # Certifications
 
 * Tableau Certified Data Analyst – <a href="https://www.credly.com/badges/a4f013c1-9fda-4647-b0a9-a36d8db71f75" target="_blank">View Credential</a>.
