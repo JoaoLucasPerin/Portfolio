@@ -76,8 +76,8 @@ Please, feel free to contact me via: <br>
 * With this, I made a simple script, based on this, to convert that dataset to spark and pandas.
   * Take a look at how to save in spark and pandas, extracting from the Databricks cluster, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279527012/905146386861623/latest.html">here</a>;
 * Than, I built a full machine learning example, to churn prediction.
-  * Take a look at this classification model in Databricks, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279526955/905146386861623/latest.html">here</a>;
- <br>
+  * Take a look at this classification model in Databricks, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279526955/905146386861623/latest.html">here</a>;<br>
+  
 * Remembering, all of that expires in 6 months. Then, it expires in september 2025.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
