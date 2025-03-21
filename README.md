@@ -71,9 +71,12 @@ Please, feel free to contact me via: <br>
 ------------------------------------------------------------------------------------------------------------------------------
 # Databricks
 
-* I build a full script to extract Kaggle datasets to your own Databricks Community Edition (accessible for free) cluster. Take a look, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/571989761416862/905146386861623/latest.html">here</a>;
-* With this, I made a simple script, based on this, to convert that dataset to spark and pandas. Take a look, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279527012/905146386861623/latest.html">here</a>;
-* Than, I built a full machine learning example, to churn prediction. Take a look, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279526955/905146386861623/latest.html">here</a>;
+* I build a full script to extract Kaggle datasets to your own Databricks Community Edition (accessible for free) cluster.
+  * Take a look of this extract script, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/571989761416862/905146386861623/latest.html">here</a>;
+* With this, I made a simple script, based on this, to convert that dataset to spark and pandas.
+  * Take a look of how to save in spark and pandas, extracting from the Databricks cluster, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279527012/905146386861623/latest.html">here</a>;
+* Than, I built a full machine learning example, to churn prediction.
+  * Take a look of this classification model in Databricks, <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4343361280696907/922802279526955/905146386861623/latest.html">here</a>;
 * Remembering, all of that expires in 6 months. Then, it expires in september 2025.
 ------------------------------------------------------------------------------------------------------------------------------
 # Certifications
