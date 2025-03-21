@@ -18,7 +18,7 @@ Please, feel free to contact me via: <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 # ARTICLES
-### R: Logistic regression applied in adverse events post-vaccination
+### <a href="https://www.r-project.org/">R</a>: Logistic regression applied in adverse events post-vaccination
 * #### Adverse Events Following Immunization in Brazil: Age of Child and Vaccine-Associated Risk Analysis Using Logistic Regression
   * Article published on International Journal of Environmental Research and Public Health; <br>
   * <a href="https://www.mdpi.com/1660-4601/15/6/1149">You can access the full article here; </a> <br> 
@@ -27,7 +27,7 @@ Please, feel free to contact me via: <br>
 [<img src="aepi_article_title_and_authors.png" width="40%" >](https://www.mdpi.com/1660-4601/15/6/1149)
 
 ------------------------------------------------------------------------------------------------------------------------------
-### Python: Automated classification model selection - selection of the winning model among 11 classifier types with k-fold
+### <a href="https://www.python.org/">Python</a>: Automated classification model selection - selection of the winning model among 11 classifier types with k-fold
 
 * #### Automatização da Escolha de Modelos de Classificação para Identificação de Espécies de Plantas Usando Machine Learning e CRISP-DM
   * Article published on Medium. <a href="https://medium.com/@joaolucasrpt/projeto-crisp-dm-utilizando-o-conjunto-de-dados-iris-0f98de856a56">Check it out here</a>; <br>
